@@ -55,6 +55,7 @@ public class InputController : MonoBehaviour
             ÒlickAction?.Invoke(false);
         }
     }
+
     private void Input—alculations()
     {
         Touch touch = Input.GetTouch(0);
